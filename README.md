@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm a certificated IT technician with basic of many programming languages. 
+- I'm a certificated IT technician with basic knowledge of many programming languages. 
 - I'm also familiar with 2D graphics and animations.
